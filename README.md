@@ -1,4 +1,6 @@
 # COMP359_Assignment1
+## Mergesort efficiency Algorithm (in place vs out of place)
+
 Citations
 
 Liu, X. (2013). AlgoXY: Merge sort implementation in C (mergesort.c) [Source code]. GitHub. https://github.com/liuxinyu95/AlgoXY/blob/algoxy/sorting/merge-sort/src/mergesort.c
