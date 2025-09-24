@@ -1,0 +1,39 @@
+commit f7a4d7d4cb4cf6a29e25201199da2f83ea7778c8 (HEAD -> main, origin/main)
+Author: Diana Emal <diana_emal@outlook.com>
+Date:   Tue Sep 23 18:30:44 2025 -0700
+
+    added tests
+
+commit 36e8c1879149da042c8ae20414aeece6104ed66e
+Author: bilalsahmad <bilal.salmana@gmail.com>
+Date:   Tue Sep 23 17:22:10 2025 -0700
+
+    Add files via upload
+    
+    This version outputs the first 15 elements in the array as well as sorts it and displaying time taken.
+
+commit b6cd57ed1dd1473e2a56cad75fc4a0a8bc348d3c
+Author: bilalsahmad <bilal.salmana@gmail.com>
+Date:   Tue Sep 23 16:34:22 2025 -0700
+
+    README.md
+
+commit e2629fa5d7b036c3d59d2bea33040f1922e476a0
+Author: sids386 <siddharthsoni2002@gmail.com>
+Date:   Tue Sep 23 16:23:10 2025 -0700
+
+    Add files via upload
+
+commit 2e387486b81d9582a2b401db9783c86aed98a8af
+Author: bilalsahmad <bilal.salmana@gmail.com>
+Date:   Tue Sep 23 16:22:52 2025 -0700
+
+    Add files via upload
+    
+    Basic Top Down Design for a Merge Sort Algorithm used to calculate time efficiency
+
+commit 7881fde0f779049f829e38646643dc685b0e2cf7
+Author: bilalsahmad <bilal.salmana@gmail.com>
+Date:   Tue Sep 23 16:15:10 2025 -0700
+
+    Initial commit
