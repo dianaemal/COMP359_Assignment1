@@ -1,3 +1,4 @@
+#Siddharth Soni
 def next_gap(g):
     """Return ceil(g/2) using integers."""
     return 0 if g <= 1 else (g // 2) + (g % 2)
@@ -20,7 +21,7 @@ def inplace_merge_gap(arr, left, right, *, debug=True):
         i, j = left, left + gap
         while j <= right:
             if arr[i] > arr[j]:
-                # capture values BEFORE swap so the message reflects reality
+             
                 left_val, right_val = arr[i], arr[j]
                 arr[i], arr[j] = arr[j], arr[i]
                 if debug:
@@ -35,7 +36,7 @@ def inplace_merge_gap(arr, left, right, *, debug=True):
 def gap_merge_sort(arr, left=0, right=None, *, debug=True):
     """
     Top-down merge sort; merges each level using the gap method (in-place).
-    Note: not stable; overall time ~ O(n (log n)^2); space O(1).
+   
     """
     if right is None:
         right = len(arr) - 1
@@ -52,3 +53,4 @@ def gap_merge_sort(arr, left=0, right=None, *, debug=True):
 a = [9, 8, 2, 6, 5, 10]
 gap_merge_sort(a)   
 print("\nFINAL:", a)            
+
