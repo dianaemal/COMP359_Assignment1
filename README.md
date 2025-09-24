@@ -70,6 +70,6 @@ We compared four implementations of Merge Sort, analyzing **time complexity and 
 
 ---
 
-## Project Folder Structure  
+
 
 
