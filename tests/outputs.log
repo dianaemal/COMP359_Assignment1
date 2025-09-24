@@ -1,3 +1,63 @@
+--- Test case 1: [] ---
+Basic Merge Sort: []
+Working Area Merge Sort: []
+Naive In-Place Merge Sort: []
+Gap Method In-Place Merge Sort: []
+
+--- Test case 2: [1] ---
+Basic Merge Sort: [1]
+Working Area Merge Sort: [1]
+Naive In-Place Merge Sort: [1]
+Gap Method In-Place Merge Sort: [1]
+
+--- Test case 3: [2, 1] ---
+Basic Merge Sort: [1, 2]
+Working Area Merge Sort: [1, 2]
+Naive In-Place Merge Sort: [1, 2]
+Gap Method In-Place Merge Sort: [1, 2]
+
+--- Test case 4: [1, 2] ---
+Basic Merge Sort: [1, 2]
+Working Area Merge Sort: [1, 2]
+Naive In-Place Merge Sort: [1, 2]
+Gap Method In-Place Merge Sort: [1, 2]
+
+--- Test case 5: [3, 1, 2] ---
+Basic Merge Sort: [1, 2, 3]
+Working Area Merge Sort: [1, 2, 3]
+Naive In-Place Merge Sort: [1, 2, 3]
+Gap Method In-Place Merge Sort: [1, 2, 3]
+
+--- Test case 6: [1, 2, 3, 4, 5] ---
+Basic Merge Sort: [1, 2, 3, 4, 5]
+Working Area Merge Sort: [1, 2, 3, 4, 5]
+Naive In-Place Merge Sort: [1, 2, 3, 4, 5]
+Gap Method In-Place Merge Sort: [1, 2, 3, 4, 5]
+
+--- Test case 7: [5, 4, 3, 2, 1] ---
+Basic Merge Sort: [1, 2, 3, 4, 5]
+Working Area Merge Sort: [1, 2, 3, 4, 5]
+Naive In-Place Merge Sort: [1, 2, 3, 4, 5]
+Gap Method In-Place Merge Sort: [1, 2, 3, 4, 5]
+
+--- Test case 8: [1, 2, 2, 1] ---
+Basic Merge Sort: [1, 1, 2, 2]
+Working Area Merge Sort: [1, 1, 2, 2]
+Naive In-Place Merge Sort: [1, 1, 2, 2]
+Gap Method In-Place Merge Sort: [1, 1, 2, 2]
+
+--- Test case 9: [60, 20, 10, 90, 1, 88, 5, 13, 28, 97] ---
+Basic Merge Sort: [1, 5, 10, 13, 20, 28, 60, 88, 90, 97]
+Working Area Merge Sort: [1, 5, 10, 13, 20, 28, 60, 88, 90, 97]
+Naive In-Place Merge Sort: [1, 5, 10, 13, 20, 28, 60, 88, 90, 97]
+Gap Method In-Place Merge Sort: [1, 5, 10, 13, 20, 28, 60, 88, 90, 97]
+
+--- Performance Test ---
+Basic Merge Sort time: 0.121734 s
+Working Area Merge Sort time: 0.182715 s
+Naive In-Place Merge Sort time: 9.934091 s
+Gap Method In-Place Merge Sort time: 0.882339 s
+
 Testing Merge Sort with Working Area:
 Dividing: [3, 1, 2] into [3] and [1, 2]
 Dividing: [1, 2] into [1] and [2]
