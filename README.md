@@ -11,7 +11,8 @@
   - **Diana Emal:** Implemented Working Area Merge and Naive In-Place Merge, handled testing and logging outputs and measured runtime.  
   - **Bilal Ahmad:** Implemented Basic Merge Sort, prepared baseline comparisons and wrote the citations.  
   - **Siddharth Soni:** Implemented Gap Method In-Place Merge and tested performance.  
-- All members contributed coding, testing, and documentation. 
+- All members contributed coding, testing, and documentation.
+- All of the merge functions, run_test function, and performance_test function can be found in `All_merge_functions.py`.
 
 ---
 
