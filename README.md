@@ -46,8 +46,7 @@ We compared four implementations of Merge Sort, analyzing **time complexity and 
 | 10,000     | 0.0107 | 0.0162 | 0.0968 | 0.0569 |
 | 50,000     | 0.0567 | 0.0834 | 2.3563 | 0.3763 |
 | 100,000    | 0.1291 | 0.1938 | 9.9096 | 0.8528 |
-
-- Differences: Each member used the same programming language but different algorithmic variations, ensuring unique contributions.  
+ 
 
 ---
 
